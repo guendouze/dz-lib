@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-dz-lib',
+  selector: 'dz-lib',
   template: `
     <p>
       dz-lib works!
